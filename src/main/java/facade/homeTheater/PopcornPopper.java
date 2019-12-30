@@ -1,13 +1,11 @@
-package facade;
+package facade.homeTheater;
 
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 public class PopcornPopper {
 
-    public void on() {
-        log.info("Popcorn popper on");
-    }
+    public void on() { log.info("Popcorn popper on"); }
 
     public void off() {
         log.info("Popcorn popper off");

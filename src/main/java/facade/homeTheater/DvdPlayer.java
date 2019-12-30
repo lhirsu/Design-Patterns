@@ -1,4 +1,4 @@
-package facade;
+package facade.homeTheater;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
